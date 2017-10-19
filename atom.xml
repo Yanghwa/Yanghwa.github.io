@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Yanghwa.github.io/"/>
-  <updated>2017-10-18T20:51:54.080Z</updated>
+  <updated>2017-10-19T13:51:38.142Z</updated>
   <id>http://Yanghwa.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>This is The First Post in this Blog</title>
+    <link href="http://Yanghwa.github.io/2017/10/18/fisrt-post/"/>
+    <id>http://Yanghwa.github.io/2017/10/18/fisrt-post/</id>
+    <published>2017-10-18T21:01:25.000Z</published>
+    <updated>2017-10-19T13:51:38.142Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hi-this-is-my-first-Post"><a href="#Hi-this-is-my-first-Post" class="headerlink" title="Hi this is my first Post"></a>Hi this is my first Post</h2><p>And I want to try something working using Hexo.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Hi-this-is-my-first-Post&quot;&gt;&lt;a href=&quot;#Hi-this-is-my-first-Post&quot; class=&quot;headerlink&quot; title=&quot;Hi this is my first Post&quot;&gt;&lt;/a&gt;Hi this is my 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
